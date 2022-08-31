@@ -1,0 +1,66 @@
+.red{
+    background-color: brown;
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    margin: 10px;
+        
+}
+.orange{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    margin: 10px;
+        
+}
+.squarered{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    position: absolute;
+}
+
+.squareorange{
+    height: 100px;
+    width: 100px;
+    background-color: orange;
+    position: absolute;
+}
+
+.green{
+    background-color: darkgreen;
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    margin: 10px;
+        
+}
+.squaregreen{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    position: absolute;
+}
+
+.redbox{
+    height: 50px;
+    width: 100px;
+    background-color: crimson;
+}
+
+.orangebox{
+    width: 50%; 
+    height: 50%;
+    left: 50%;
+    bottom: -50%;
+    position: relative;
+    background-color: green;
+}
+.greenbox{
+    width: 50%; 
+    height: 50%;
+    bottom: -50%;
+    position: relative;
+    background-color: aquamarine;
+}
